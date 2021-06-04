@@ -30,7 +30,10 @@ Challenges
     For Imperial measurements, prompt for feet and inches and convert feet to inches so the user doesn’t have to.
     Use a GUI interface with sliders for height and weight. Update the user interface on the fly. Use colors as well as text to indicate health.
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex19 {
